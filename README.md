@@ -5,4 +5,5 @@ Applying NLP and Sentiment Analysis on hotels reviews from TripAdvisor. In the f
 ## Dataset Distribution
 
 The rating classes distribution (from 1 to 5) is given below. We notive that we have clearly imbalanced classes, the rating 5 is barely taking half the dataset.
+
 ![alt text](imgs/pie-reviews.png)
